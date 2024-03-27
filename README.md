@@ -1,2 +1,10 @@
-# Python-
-This is a repository of Python Programming Exercise.
+# Python-Exercise
+## This is a repository of Python Programming Exercise.
+## 資工五乙 陳德恩
+## 練習1-LeetCode 0189 演算法練習題
+## 給定一個整數陣列nums，將陣列中的元素循環右移k個位置，其中k是非負數。
+## 範例1:輸入: nums = [1,2,3,4,5,6,7], k = 3  輸出: [5,6,7,1,2,3,4]  
+## 解釋:  向右輪轉 1 步: [7,1,2,3,4,5,6]  
+## 向右輪轉 2 步: [6,7,1,2,3,4,5]  
+## 向右輪轉 3 步: [5,6,7,1,2,3,4] 
+程式檔案:0189.py
